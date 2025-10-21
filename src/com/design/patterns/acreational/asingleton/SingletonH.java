@@ -1,4 +1,4 @@
-package com.design.patterns.acreational.singleton;
+package com.design.patterns.acreational.asingleton;
 
 public class SingletonH {
 	//Bill Pugh came up with a different approach to create the Singleton class using an inner static helper class as below.

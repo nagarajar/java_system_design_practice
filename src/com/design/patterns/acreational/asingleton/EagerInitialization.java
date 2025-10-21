@@ -1,4 +1,4 @@
-package com.design.patterns.acreational.singleton;
+package com.design.patterns.acreational.asingleton;
 
 public class EagerInitialization {
 	private static EagerInitialization instance = new EagerInitialization();

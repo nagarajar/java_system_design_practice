@@ -1,4 +1,4 @@
-package com.design.patterns.acreational.singleton;
+package com.design.patterns.acreational.asingleton;
 
 import java.util.concurrent.ExecutorService;
 import java.util.concurrent.Executors;
